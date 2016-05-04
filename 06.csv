@@ -1,0 +1,75 @@
+abiotische Umweltfaktoren,"Temp, Licht, Feuchtigkeit"
+Biotop,Lebensraumens einer Art
+biotische Umweltfaktoren,"Einwirkung, denen ein Lebewesen durch andere Lebewesen ausgesetzt ist"
+Biozönose,Lebensgemeinschaft aller Lebewesen eines Biotops
+Ökosystem,Biozönose+Biotop
+Biosphäre,Alle Ökosysteme
+Optimum,Temp. mit Höchster Aktivität
+"Maximum, Minimum",Ober- / Unterhalb dieser Temp keine Aktivität
+Gedeihkurve=Toleranzkurve,In welchem Ausmass ein Lebewesen auf Umwelt reagiert
+Ökologische Potenz,Gesamte Reaktionsfähigkeit eines Lebewesens auf Umwelt
+"eurypotent, euryök",In der Hinsicht eines Faktors ist das Lebewesens Toleranzbereich sehr weit
+"stenopotent, stenök",In der Hinsicht eines Faktors ist das Lebewesens Toleranzbereich sehr schmal
+endotherm <--> ektotherme Lebenwesen,gleichwarme und wechselwarme Tiere
+endotherm,produzieren Wärme selber
+ektotherm,sind auf äussere Wärmequellen angewiesen
+"Kältetod, Hitzetod",Temperatur-Toleranzbereich unter oder überschritten
+Bergmannsche Regel,"Grosse Tiere haben im Vergleich zu ihrem Volumen eine kleine Köperoberfläche, darum verlieren sie weniger Wärme. Bsp pinguine"
+Allensche Regel,"Kleine Tiere haben im Vergleich zu ihrem Volumen eine grosse Köperoberfläche, darum verlieren sie mehr Wärme. Bsp fuchs"
+Kamele Nasenschleimhaut,Beim Einatmen kühlt sich die Luft durch verdunstung
+Entstehung Vogelzug,Durch Abnehmende Tageslänge
+Fotoperiodik,"Gesang wird durch Sonnenaufgang ausgelöst, auch bei Pflanze"
+circadiane Rhytmik,Aktiviäten in 24h Takt
+Langtagpflanzen / Kurztagpflanzen,Blühen wenn Tag länger / kürzer ist
+Phytochromsystem,Lichtempfindliches System der Pflanzen
+Horizontal Zonierung See,Benthal (=Litoral+Profundal)
+Litoral,Uferzone; Grossseggenried + Von Wasser bedeckte Fläche; Es wachsen Pflanzen
+Profundal,Tiefbodenzone; Keine Pflanzen wachsen dort
+Benthal,Litoral + Profundal
+Vertikal Zonierung See,"Pelagial, tropogene Zone, Kompensationsebene, Zehrschicht"
+Pelagial,Zone des freien Wassers
+tropholytische Zone,Zehrschicht
+trophogene Zone,Nährschicht
+Bedeutung Nährschicht = trophogene Schicht,Produziert Tagsüber Sauerstoff und Biomasse
+Bedeutung Kompensationsschicht,Sauerstoff- und Biomasseverbrauch heben sich gegenseitig auf
+Bedeutung Zehrschicht,Verbrauch>Produktion
+See Temperaturschichten,Epilimnion --> Sprungschicht --> Hypomilion
+Stagnationszustände Jahreszeiten,Sommerstagnation: Stabile Schichtung; Frühjahr+Herbst: Vollzirkulation; Winter: Winterstagnation
+Drei Gruppen in Nahrungsketten,"Produzenten, Konsumenten, Destruenten"
+Produzenten,"Pflanzen, die durch Fotosynthese Biostoffe produzieren"
+Konsumenten,"Fleischfresser, Pflanzenfresser, Parasiten"
+Destruenten,Detritusfresser+Mineralisieren
+Destritusfresser,Zersetzen Tierleichen und tote Pflanzen
+Mineralisierer,Zersetzen Biomaterial zu Mineralstoffen und Wasser
+"Kohlenstoffkreislauf Abgeber, Aufnehmer","Abgeber: Atmung, Verbrennung Wald, Industrie, Ozean Abgabe; Aufnahme: Pflanzen, Ozean (Fixierung)"
+N-Kreislauf Seen Zufuhr,Fixierung Tiere und totes Laub
+Stickstoff,N
+Ammonium,NH4
+Nitrat,"NO2, NO3"
+N Kreislauf,N --> NH4 --> NO2- --> NO3- --> N
+Ammonifikation,N --> NH4 Bakterien bauen organische Stoffe Ammoniumionen um.
+Nitrifikation,"NH4 --> NO2- / NO2- ---> NO3- Bakterien gewinnen Energie aus Ammoniumionen, es braucht aber O2"
+Stickstoff-Assimiliation,NO3- --> N
+Nitratammonifikation,NO3- --> NH4 Aus irgendeinem Grund von Phytoplankton gemacht
+"oligotroph, eutroph","mineralstoff armer, reicher See."
+oligotrophe Seen,"Wenig Phytoplankton wenig Mineralien, mehr Destruenten; Zehrschicht Sauerstoffreich"
+eutrophe Seen,"Viel Phytoplanktion viel Mineralien, mehr Phytoplanktion Nährschicht Sauerstoffreich"
+Bruttoprimärproduzenten,Verwenden 1% der Sonnenenergie für Biomasseproduktion
+Kosument Aufnahme,Nur 10% der Energie wird aufgenommen
+Nahrungspyramide,"Darstellen, wieviel Energie weitergegeben wird. Zb 100% 10% 1% 0.1%"
+r-Selektiert,"Lebensraum schwach besiedelt, Selektion begünstig Lebewesen mit schneller Vermehrungsrate"
+K-Selektiert,"Lebensraum an Grenze seiner Kapazität, Selektion begünstigt Lebewesen mit guten Anfangsbedingungen."
+Kennzeichen r-/K-Selektiert,"Zeit bis Geschlechtsreife, Anzahl Nachkommen, Dicke Eierschalen, Lebensdauer, Sterblichkeit"
+Bruttoprimärproduktion,"Menge an Kohlenstoff, welche Pflanzen bei Fotosynthese bilden."
+Nettoprimärproduktion,"Pflanzen Energie abzüglich der selbst verbrauchten, = was sie hinterlassen an Biomasse"
+Effekt verschmutztes Wasser,"Bakterien vermehren sich stark, mehr NH4, NO2, NO3, Phosphat-Ionen freigesetzt; Schwebstoffe verhindern Fotosynthese, Sauerstoff sinkt, keine Fische"
+anaerobe Verhältnhisse,O2-Konzentration verringert sich
+Selbstreinigungskraft des Gewässers,Fast ausschliesslich Bakterien
+Indikatorlebewesen,"Lebewesen, die unter besonderen chemischen Bedinungen leben"
+Saprobien,"Lebewesen, die durch physiologische Anpassung unter verfaulten Zuständen leben können, Saprobienindex"
+Trophiestufe,Mineralstoffgehalt
+Reinigung Abwasser: 3 Stufen,"mechanisch, biologisch, chemisch"
+Mechanische Reinungsstufe,"Rechenwerk, Steine am Boden ablagern, Fett an der Oberfläche wegnehmen"
+Biologische Reinigungsstufe,Belebtschlammbecken: aerob: Nitrifikation NH4 --> NO2- --> NO3-; anaerob: Denitrifikation NO3- --> NO2- --> NH4 --> N2;
+Chemische Reinigungsstufe,Durch hinzugabe von Eisen- und Aluminiumsalze werden die Phospationen ausgefällt und lagern sich ab am Boden
+Schlamm,"Kann verbrannt werden, Gas kann verbrannt werden"

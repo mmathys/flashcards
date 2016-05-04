@@ -1,0 +1,43 @@
+DNA <--> RNA,C2-Molekül DNA hat H anstelle OH
+Grundeinheit,Nucleotid
+Zucker der RNA,Ribose
+Zucker der DNA,Desoxyribose
+DNA Basen,"A, G / C, T; Adenosin, Guanin / Cytosin, Thymin"
+RNA hat nicht Thymin. Was hat es anstelle?,U Uracil
+Doppelhelix-Modell,"DNa liegt als Doppelstrange auf zwei langen Fäden vor, die geschraubt sind; Basen sind durch H-Bindungen gebunden"
+Basen paaren sich wie:,AT und GC
+Zwei Enden,C5 und C3: Phospatrest am C5-Atom; entgegengesetzte Richtung C3-Atom
+Richtung,Immer 5' --> 3'; komplementärer Strang 3' --> 5'
+Antiparallellität der Stränge,5' 3' vs 3' 5' Raumstruktur / Anordnung ist so möglich
+Gen,"Erbanlage, bestimmte Fähigkeiten"
+Chromosom,
+Karyogramm,Ordnen der Chromosomen nach Grösse und Aussehen
+Allele,Jedes Gen liegt auf zwei Allelen eines Chromosoms.
+Diploid,Zustand eines Chromosomensatzes: Er enthält einen Chromosomensatz von Vater und Mutter
+"Genom, Genotyp",Gesamtheit der Gene eines Zellkern
+Phänotyp,Das Erscheinungsbild der Gene: Zusätzlich zum Genotyp wirken auch noch weitere Faktoren mit
+Mitose,Zellkernteilung
+Stadien Mitose,"PMATI: Prophase, Metaphase, Anaphase, Telophase, Interphase"
+Prophase,2-Chromatid-Chromosomen verknäuelt --> verkürzen sich (Kondensation) 
+Metaphase,2-Chromatid-Chromosomen ordnen sich an der Äquatorialplatte
+Anaphase,"2-Chromatid-Chromosomen, die am Centromer zusammengehalten werden, werden auseinandergezogen"
+Telophase,"Dekondensation der 1-Chromatid-Chromosomen, neue Kernhüllen"
+Interphase,Vorbereitung auf Zellteilung
+Mensch Anzahl Chromosomen,46; 23 Chromosomenpaare
+Diploid,2n; Zwei Chromosomensätze
+Haploid,1n; Einfacher Chromosomensatz
+Meiose,Zwei hintereinander ablaufende Reifeteilungen
+Stadien Meiose,"Interphase 2n, Prophase I 2n, Metaphase I 2n, Anaphase I 2n, Telophase 2n, KEINE INTERPHASE, Prophase II n, Metaphase II n, Anaphase II n, Telophase II n"
+Interphase 2n,Bereiten sich auf Zellteilung vor
+Prophase I 2n,Zwei homologe Zwei-Chromatide-Chromosom ordnen sich homolog an
+Metaphase I 2n,Homologen Chromosomenpaare ordnen sich an der Äquatorialplatte an
+Anaphaes I 2n,Teilen sich am Centromer
+Telophase I 2n,"Neue Hüllen --> 1n, haploid"
+Prophase II n,Chromosomen ordnen sich am der Äquatorialplatte an
+Metaphase II n,Chromosomen werden geteilt
+Anaphase II n,Bilden neue Hüllen
+Telophase II n,Fertig
+Meiose Spermien <--> Ei Mutterzelle,Spermienmutterzelle --> 4 Spermien; Eimutterzelle --> 1 Eizelle + 3 Pollkörperchen
+interchromosonale Rekombination,"Bei der Metaphase ordnen sich die Chromosomenpaare an, 0.5 Chance to get to the winning sperm cell"
+intrachromosonale Rekombination,"Überkreuzungen von benachbarten Chromosomenstränge, Crossing Over"
+ungeschlechtliche Forpflanzung,Nachkommen stimmen mit Eltern überein

@@ -1,0 +1,121 @@
+\documentclass[]{article}
+\usepackage{pgfpages}
+\setlength{\parindent}{0pt}%Wenn Absatzabstand, dann Einzug unnötig
+
+\usepackage[paperwidth=.5\paperwidth,paperheight=.25\paperheight]{geometry}
+\pagestyle{empty}
+\thispagestyle{empty}
+\pgfpagesuselayout{8 on 1}[a4paper]
+\makeatletter
+\@tempcnta=1\relax
+\loop\ifnum\@tempcnta<9\relax
+\pgf@pset{\the\@tempcnta}{bordercode}{\pgfusepath{stroke}}
+\advance\@tempcnta by 1\relax
+\repeat
+\makeatother
+
+\newenvironment{flashcard}[2][]{%
+\noindent  \textsc{#1}
+
+\vfill
+\centerline{{\Large\emph{#2}}}
+\vfill
+\newpage
+}
+{\newpage}
+
+\newcommand{\definition}[1]{%
+	\begin{flashcard}[Definition]{#1}
+		
+	\end{flashcard}
+	}
+	
+\newcommand{\term}[1]{%
+	\noindent  \textsc{Term}
+	
+	\vfill
+	\vspace*{\stretch{1}}
+	#1
+	\vspace*{\stretch{1}}
+	
+
+	\vfill
+	\newpage
+}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{amsfonts}
+\usepackage{amsmath}
+
+\begin{document}
+
+\definition{Hornhaut fkt}
+\definition{Vordere Augenkammer mit Wasser}
+\definition{Linse}
+\definition{Ciliarmuskel}
+\definition{Regenbogenhaut=Iris}
+\definition{Glaskörper}
+\definition{Netzhaut}
+\definition{Pigmentschicht}
+\term{Zusammen mit Hornhaut als Sammelllinsee}
+\term{Durch Wölbung wirkt als Sammellinse}
+\term{Stellen die Linse ein}
+\term{Bricht das Licht so, dass ein scharfes Bild entsteht}
+\term{Formerhaltung des Auges}
+\term{Lässt mehr oder weniger Licht durch}
+\term{Schutz gegen Reflexionen im Auge}
+\term{Hell-Dunkel mit Stäbchen und Farbensehen mit Zäpfchen}
+\definition{Aderhaut}
+\definition{Weisse Aderhaut}
+\definition{Blinder Fleck}
+\definition{Sehnerv}
+\definition{Gelber Fleck }
+\definition{Augenbindehaut}
+\definition{Augenmuskeln}
+\definition{Fettpolster}
+\term{Gibt dem Auge die Form}
+\term{Ernährt Auge}
+\term{Weiterleitung ans Gehirn}
+\term{Keine Nerven, Dort gehen Nervenfasern raus}
+\term{Verbindet Augenapfel mit Gesichtshaut}
+\term{Ort mit am Meisten Sehnerven, schärfste Abbildung}
+\term{Weiche Lage des Auges}
+\term{Stelllen die Auge ein}
+\definition{Tränendrüsen}
+\definition{Stäbchen Farbstoff}
+\definition{Zäpfchen Farbstoffe}
+\definition{Fototransduktion}
+\definition{Adaption des Augen}
+\definition{Myopie}
+\definition{Hyperopie}
+\definition{Akkommodation Auge}
+\term{Sehpurpur = Rhodopsin}
+\term{Bewässerung des Auges}
+\term{Umsetzung Lichtreize in bioelektrische Signale: Guanosinmonosphat aktiviert und Hyperoplarisation}
+\term{cis-Retinal (für wenig Licht), trans-Retinal (für viel Licht)}
+\term{Kurzsichtigkeit; Auge ist relative zur Brechkraft zu lang (kurzsicht --> lang)}
+\term{Irisblende}
+\term{Anpassung an Weite. Linse durch Ciliarmuskel verändert}
+\term{Weitsichtigkeit, Auge ist relativ zur Brechkraft zu kurz (langsicht --> kurz)}
+\definition{Alterssichtigkeit}
+\definition{}
+\definition{}
+\definition{}
+\definition{}
+\definition{}
+\definition{}
+\definition{}
+\term{}
+\term{Elastizität der Linse nicht mehr gut}
+\term{}
+\term{}
+\term{}
+\term{}
+\term{}
+\term{}
+
+
+
+
+\end{document}

@@ -1,0 +1,68 @@
+Phänotyp,äusseres Erscheinungsbild
+Mitose,Zellkernteilung mit Ergbenis diploide Zellen
+Meiose,Zellkerntielung mit Ergebnis haploide Zellen
+Phän,"Merkmal, physische Eigenschaft eines Lebewesens.."
+Genotyp,Gesamt der in den Genen lokalisierten Erbinformationen
+Genom,Gesamtheit der DNA einer Zelle
+Chromatin,Komplex aus DNA und Proteinen; vgl Chromatinfaser
+Chromosom,2 Chromatide
+Chromatid,1 Strang.
+homologe Chromosomen,"Chromosomen gleicher Grösse und Gestalt, oft stammt eines vom Vater und eines von der Mutter."
+Allel,"Ausprägung eines Gens, das sich auch an einem anderen Ort befindet."
+homozygot,"reinerbig, Allele tragen gleiche Information"
+heterozygot,"mischerbig, Allele tragen NICHT NCIHT die gleiche Information"
+hemizygot.,Hm. Das Allel tritt nur einmal auf.
+Gonosome,"Die geschlechtsspezifischen Chromosomen: X und Y. Frau: XX, Mann: XY"
+Autosomen,Die geschlechtsunspezifischen Chromosomen
+Erbgang von Allelen (4),"dominant, rezessiv, intermediär, kodominant"
+dominant,überdeckend
+rezessiv,übergedeckt
+intermediär,Allele nehmen Mischform an.
+kodominant,Allele manifestieren sich nebeneinander.
+"gonosomal, autosomal","Allel liegt auf Gonosom, Autosom"
+"P, F1, F2","Parental-, 1-Filial-, 2-Filialgeneration"
+Trisonomie 21,Zusätzliches Chromosom 21
+Nondisjunction,Fehlendes auseinanderweichen von Chromosomen
+TurnerSyndrom,X0
+Poly-X-Frauen,"XXX, XXXX"
+Klinefelter-Männer,"XXY, XXXY"
+Diplo-Y-Männer (diplo = doppelt),"XYY, XXYY, XXXYY"
+Replikation DNA Enzyme,"Helicase, Primase, (DNA Polymerase III | DNA Polyermase III, DNA-Polymerase I, DNA-Ligase)"
+Helicase Fkt,Aufspalten der Einzelstränge
+Primase Fkt,Ansetzen der RNA-Primer
+Enzyme 5' --> 3' vs 3' --> 5 Gabel,"5' --> 3' : DNA-Polyermase III. 3' --> 5': DNA-Polymerase III, DNA-Polyermase I, DNA-Ligase."
+DNA-Polyermase III Fkt,Synthese neuer komplementärer DNA
+Okazaki-Fragment,"Auf 3'-->5' Seite keine kontinuierliche Synthase möglich, darum DNA-Polymerase III inkontinuierliche Synthase. --> Okazaki-Fragment entstehen"
+DNA-Polyermase I Fkt,Ersetzen der RNA-Primer durch DNA-Komplementärbasen
+DNA-Ligase,Verbindet Okazaki-Fragmente
+PCR,"Polymerase Chain Reaction. Massive vervielfältigung von DNA. Denaturierung bei 94 Grad, Primer bilden, Hitzebeständige Taq-Polyermase zur vervielfältigung einsetzen."
+Telomer Ort,Enden von Chromosomen
+Telomere Fkt,"Schutzkapsel, Schutz vor Enzymen, Stabiltät, Pufferzone bei Replikation: Lücke bei DNA-Polymerase I:Nicht möglich an 5' enden abzuschliessen"
+Telomerase,"Enzym, Regeneration von Telomeren."
+Telomere Bedeutung,"Telomer bei jeder Zellteilung verkürzt und weniger regeneriert durch telomerase: Biologische Alterung, Zeigt alterung der zellfunktionen."
+molecular clock,Länge der Telomere bestimmt Anzahl möglicher Teilung einer Zelle.
+genetischer Code. wtf is it?,Basenabfolge
+Codon,Basentriplet. Codieren immer eine Aminosäure
+RNA Funktion,Transport- und Arbeitskopie.
+RNA-Transkrtion,DNA in mRNA
+RNA-Polyermase,Kopiert DNA in RNA (mRNA). 5'-->3'.
+Promoter,Erkennt Anfangsbasensequenz bei RNA-Transkrition
+RNA-Translation,mRNA --> Protein.
+tRNA,transfer-RNA: Transport von Aminosäuren zu Ribosomen
+Wo RNA-Translation,Ribosomen.
+Anticodon,Für eine Art t-RNA spezifisches Codon (Triplet).
+Initiation RNA-Translation,"t-RNA knüpft bei Start-Codon an, Ort P."
+Elongation RNA-Translation,"t-RNA knüpft bei Ort A an, unter Energieverbruach werden die beiden Aminosäuren verknüpft --> Dipeptid, vorrücken des Ribosoms."
+Ribosom: Ort P,Verknüpfungsort
+Ribosom: Ort A,Erkennungsort
+Termination RNA-Translation,Stopcodon.
+Sichelzellenanämie,"Erkrankheit, Erythrozyten sind sichelförmig, Betroffene können nicht mehr gut Sauerstoff aufnehmen, Gefässe verstopfen, Milz vergrössert und platzt., Punktmutation"
+"Introns, Exons","Uncodierte Abschnitte der DNA: Intron, Codierte Abschnitte der DNA: Exons."
+prä-mRNA,Trankskribierte RNA mit Intron included.
+Splicing,Introns werden herausgeschnitten
+Epigenetische Regulation,Zb Bienen. Je nach den Verhältnissen kann sich der Genotyp ändern!
+Genomische Prägung,"In eine männlichen Embryo werden männliche Methylierungsmuster erzeugt, in einem weblichen webliche. (?) Auch umzu Erfahrungen weiterzugeben!"
+differenzielle Genaktivität,Bestimmte Gene werden zu festgelegten Zeitpunkten an- oder abgeschaltet
+Puffmuster,Riesenchromosomen: Aufgepufft = hohe transkriptionsrate
+Promotor-Regien bei RNA-Transkriptase,dort setzt die RNA-Transkriptase an.
+Enhancer,"Sequenzen, die die Aktivität von Promotoren erhöht."
