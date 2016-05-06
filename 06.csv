@@ -54,9 +54,9 @@ Nitratammonifikation,NO3- --> NH4 Aus irgendeinem Grund von Phytoplankton gemach
 "oligotroph, eutroph","mineralstoff armer, reicher See."
 oligotrophe Seen,"Wenig Phytoplankton wenig Mineralien, mehr Destruenten; Zehrschicht Sauerstoffreich"
 eutrophe Seen,"Viel Phytoplanktion viel Mineralien, mehr Phytoplanktion Nährschicht Sauerstoffreich"
-Bruttoprimärproduzenten,Verwenden 1% der Sonnenenergie für Biomasseproduktion
-Kosument Aufnahme,Nur 10% der Energie wird aufgenommen
-Nahrungspyramide,"Darstellen, wieviel Energie weitergegeben wird. Zb 100% 10% 1% 0.1%"
+Bruttoprimärproduzenten,Verwenden 1\% der Sonnenenergie für Biomasseproduktion
+Kosument Aufnahme,Nur 10\% der Energie wird aufgenommen
+Nahrungspyramide,"Darstellen, wieviel Energie weitergegeben wird. Zb 100\% 10\% 1\% 0.1\%"
 r-Selektiert,"Lebensraum schwach besiedelt, Selektion begünstig Lebewesen mit schneller Vermehrungsrate"
 K-Selektiert,"Lebensraum an Grenze seiner Kapazität, Selektion begünstigt Lebewesen mit guten Anfangsbedingungen."
 Kennzeichen r-/K-Selektiert,"Zeit bis Geschlechtsreife, Anzahl Nachkommen, Dicke Eierschalen, Lebensdauer, Sterblichkeit"
